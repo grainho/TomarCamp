@@ -196,8 +196,15 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Atividades.cs" />
+    <Compile Include="Models\Concretizacao.cs" />
+    <Compile Include="Models\Criancas.cs" />
+    <Compile Include="Models\Funcionario.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Pais.cs" />
+    <Compile Include="Models\PlanoDeAtividades.cs" />
+    <Compile Include="Models\TomarCampDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
