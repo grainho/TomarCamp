@@ -1,8 +1,6 @@
-﻿using Microsoft.Owin;
-using Owin;
+﻿using Owin;
 
-[assembly: OwinStartupAttribute(typeof(TomarCamp.Startup))]
-namespace TomarCamp
+namespace IdentitySample
 {
     public partial class Startup
     {
